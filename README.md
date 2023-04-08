@@ -11,4 +11,4 @@
 6.Using the Button Provided in that page the user can add any transaction done in the last 2 months.
 
 7.After adding the Transaction it will be listed in the same page and to delete any Transaction just Swipe the Transaction that is to be deleted and a Delete icon will appear.
-
+ 
